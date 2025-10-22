@@ -86,3 +86,8 @@ No such file or directory (MySQL socket) → Use 127.0.0.1 instead of localhost 
 
 Blank page / PHP errors → Check Apache’s error log:
 ```sudo tail -f /var/log/apache2/error.log```
+
+## Live Demo
+- 🌐 Portfolio Website: [sufianembark.github.io](https://sufianembark.github.io)
+- 🎥 Classroom Reservation System (PHP): [Video Demo](https://youtu.be/tu-video)  
+  *(GitHub Pages no soporta PHP, por eso lo muestro en vídeo)*
